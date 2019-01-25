@@ -57,7 +57,7 @@ public class ScrollingActivity extends AppCompatActivity {
 
             }
         });
-//
+
     }
     private void shareIt(){
         Intent sharingIntent = new Intent(android.content.Intent.ACTION_SEND);
