@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186556709750",
+    "firebase_url": "https://jogja-tourism-e534f.firebaseio.com",
+    "project_id": "jogja-tourism-e534f",
+    "storage_bucket": "jogja-tourism-e534f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186556709750:android:66b9d1043d32658c",
+        "android_client_info": {
+          "package_name": "corp.gusma.jogjatourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186556709750-6fe3rg4e6ekeqdfv4ra7uakju076ej45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "corp.gusma.jogjatourism",
+            "certificate_hash": "ca36441ac9c45d20f8fd28a5042730d84c777a98"
+          }
+        },
+        {
+          "client_id": "186556709750-h9k9jm7khb8ho7d0nueug7nd4pb64q17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9x72j1ouKx2EOS2oU2YQVJL6BBmIVwt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186556709750-h9k9jm7khb8ho7d0nueug7nd4pb64q17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
