@@ -54,7 +54,7 @@ public class ScrollingActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 shareIt();
-//
+
             }
         });
 
